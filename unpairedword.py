@@ -76,12 +76,13 @@ def load_fasttext_model(path):
 
 
 
-english=load_fasttext_model("/home/nitesh/wordembeddings/data/wiki.en.bin")
-spanish=load_fasttext_model("/home/nitesh/wordembeddings/data/wiki.es.bin")
+english=load_fasttext_model("data/wiki.en.bin")
+spanish=load_fasttext_model("data/wiki.es.bin")
+print("Done Reading")
 words = english.get_labels()
-english_embeddings = torch.from_numpy(np.concatenate([english.get_word_vector(w)[None] for w in words], 0))
+english_embeddings = torch.from_numpy(np.concatenate([english.get_word_vector(w)[None] for w in words], 0))[:200000]
 Swords = spanish.get_labels()
-spanish_embeddings = torch.from_numpy(np.concatenate([spanish.get_word_vector(w)[None] for w in Swords], 0))
+spanish_embeddings = torch.from_numpy(np.concatenate([spanish.get_word_vector(w)[None] for w in Swords], 0))[:200000]
 
 
 # In[ ]:
@@ -156,6 +157,7 @@ mapping.weight.data.copy_(torch.eye(300))
 modelDisc= Discriminator(2048,0.3,0.1)
 mapping.cuda()
 modelDisc.cuda()
+print("Model Initialized")
 
 
 # In[9]:
@@ -189,8 +191,8 @@ def get_xy():
 # In[10]:
 
 
-epoch=1000
-batch_size=32
+epoch=10
+batch_size=16
 # E_batch=Batch(english_embeddings)
 # S_batch=Batch(spanish_embeddings)
 dog=Variable(english_embeddings[english.get_word_id('dog')]).cuda()
@@ -430,7 +432,7 @@ def create_dictionary(src_embedding,tgt_embedding):
     dico = torch.LongTensor(list([[a, b] for (a, b) in final_pairs]))
 
     print('New train dictionary of %i pairs.' % dico.size(0))
-    return dico.cuda()
+    return dico
     
         
         
@@ -439,6 +441,6 @@ def create_dictionary(src_embedding,tgt_embedding):
 
 # In[22]:
 
-create_dictionary(src_embeddings,spanish_embeddings.cuda())
+dico=create_dictionary(src_embeddings.cpu(),spanish_embedding)
 print(type(src_embedding))
 

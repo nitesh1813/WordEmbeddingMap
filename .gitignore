@@ -1,3 +1,4 @@
 *.bin
+*.vec
 fasttext/
 fastText-0.1.0/
