@@ -1,0 +1,1007 @@
+0.3.1.post3
+Loaded 200000 pre-trained word embeddings.
+Loaded 200000 pre-trained word embeddings.
+(0, '/1000000 ', 
+ 0.6844
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(500, '/1000000 ', 
+ 0.4486
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(1000, '/1000000 ', 
+ 0.3505
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(1500, '/1000000 ', 
+ 0.3834
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(2000, '/1000000 ', 
+ 0.4156
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(2500, '/1000000 ', 
+ 0.3896
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(3000, '/1000000 ', 
+ 0.3040
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(3500, '/1000000 ', 
+ 0.4051
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(4000, '/1000000 ', 
+ 0.3862
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(4500, '/1000000 ', 
+ 0.3640
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(5000, '/1000000 ', 
+ 0.3780
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(5500, '/1000000 ', 
+ 0.4202
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(6000, '/1000000 ', 
+ 0.4552
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(6500, '/1000000 ', 
+ 0.5363
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(7000, '/1000000 ', 
+ 0.4319
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(7500, '/1000000 ', 
+ 0.3926
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(8000, '/1000000 ', 
+ 0.3875
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(8500, '/1000000 ', 
+ 0.3792
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(9000, '/1000000 ', 
+ 0.3924
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(9500, '/1000000 ', 
+ 0.4035
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(10000, '/1000000 ', 
+ 0.4110
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(10500, '/1000000 ', 
+ 0.3988
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(11000, '/1000000 ', 
+ 0.3660
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(11500, '/1000000 ', 
+ 0.3384
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(12000, '/1000000 ', 
+ 0.4008
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(12500, '/1000000 ', 
+ 0.4282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(13000, '/1000000 ', 
+ 0.3742
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(13500, '/1000000 ', 
+ 0.3719
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(14000, '/1000000 ', 
+ 0.3711
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(14500, '/1000000 ', 
+ 0.3722
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(15000, '/1000000 ', 
+ 0.4643
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(15500, '/1000000 ', 
+ 0.3438
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(16000, '/1000000 ', 
+ 0.4338
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(16500, '/1000000 ', 
+ 0.3394
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(17000, '/1000000 ', 
+ 0.3569
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(17500, '/1000000 ', 
+ 0.3162
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(18000, '/1000000 ', 
+ 0.3682
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(18500, '/1000000 ', 
+ 0.4339
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(19000, '/1000000 ', 
+ 0.3293
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(19500, '/1000000 ', 
+ 0.3130
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(20000, '/1000000 ', 
+ 0.3412
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(20500, '/1000000 ', 
+ 0.3215
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(21000, '/1000000 ', 
+ 0.3344
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(21500, '/1000000 ', 
+ 0.3845
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(22000, '/1000000 ', 
+ 0.3492
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(22500, '/1000000 ', 
+ 0.3162
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(23000, '/1000000 ', 
+ 0.3317
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(23500, '/1000000 ', 
+ 0.3446
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(24000, '/1000000 ', 
+ 0.3565
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(24500, '/1000000 ', 
+ 0.2835
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(25000, '/1000000 ', 
+ 0.3638
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(25500, '/1000000 ', 
+ 0.3139
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(26000, '/1000000 ', 
+ 0.3413
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(26500, '/1000000 ', 
+ 0.3353
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(27000, '/1000000 ', 
+ 0.3222
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(27500, '/1000000 ', 
+ 0.2914
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(28000, '/1000000 ', 
+ 0.3365
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(28500, '/1000000 ', 
+ 0.3420
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(29000, '/1000000 ', 
+ 0.3277
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(29500, '/1000000 ', 
+ 0.4115
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(30000, '/1000000 ', 
+ 0.3925
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(30500, '/1000000 ', 
+ 0.3788
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(31000, '/1000000 ', 
+ 0.2835
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(31500, '/1000000 ', 
+ 0.3210
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(32000, '/1000000 ', 
+ 0.3082
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(32500, '/1000000 ', 
+ 0.3873
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(33000, '/1000000 ', 
+ 0.3615
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(33500, '/1000000 ', 
+ 0.3255
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(34000, '/1000000 ', 
+ 0.3017
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(34500, '/1000000 ', 
+ 0.2859
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(35000, '/1000000 ', 
+ 0.3127
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(35500, '/1000000 ', 
+ 0.3422
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(36000, '/1000000 ', 
+ 0.3934
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(36500, '/1000000 ', 
+ 0.2804
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(37000, '/1000000 ', 
+ 0.2876
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(37500, '/1000000 ', 
+ 0.3351
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(38000, '/1000000 ', 
+ 0.2651
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(38500, '/1000000 ', 
+ 0.3577
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(39000, '/1000000 ', 
+ 0.3596
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(39500, '/1000000 ', 
+ 0.3264
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(40000, '/1000000 ', 
+ 0.2810
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(40500, '/1000000 ', 
+ 0.2872
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(41000, '/1000000 ', 
+ 0.2999
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(41500, '/1000000 ', 
+ 0.3019
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(42000, '/1000000 ', 
+ 0.3390
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(42500, '/1000000 ', 
+ 0.3288
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(43000, '/1000000 ', 
+ 0.3112
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(43500, '/1000000 ', 
+ 0.2661
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(44000, '/1000000 ', 
+ 0.2850
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(44500, '/1000000 ', 
+ 0.3437
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(45000, '/1000000 ', 
+ 0.3750
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(45500, '/1000000 ', 
+ 0.4370
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(46000, '/1000000 ', 
+ 0.2904
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(46500, '/1000000 ', 
+ 0.3573
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(47000, '/1000000 ', 
+ 0.3833
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(47500, '/1000000 ', 
+ 0.3106
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(48000, '/1000000 ', 
+ 0.3823
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(48500, '/1000000 ', 
+ 0.2917
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(49000, '/1000000 ', 
+ 0.2886
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(49500, '/1000000 ', 
+ 0.3511
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(50000, '/1000000 ', 
+ 0.3120
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(50500, '/1000000 ', 
+ 0.3480
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(51000, '/1000000 ', 
+ 0.2892
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(51500, '/1000000 ', 
+ 0.3297
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(52000, '/1000000 ', 
+ 0.2653
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(52500, '/1000000 ', 
+ 0.2725
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(53000, '/1000000 ', 
+ 0.2857
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(53500, '/1000000 ', 
+ 0.2972
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(54000, '/1000000 ', 
+ 0.3668
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(54500, '/1000000 ', 
+ 0.3149
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(55000, '/1000000 ', 
+ 0.2926
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(55500, '/1000000 ', 
+ 0.2609
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(56000, '/1000000 ', 
+ 0.3333
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(56500, '/1000000 ', 
+ 0.3064
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(57000, '/1000000 ', 
+ 0.3033
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(57500, '/1000000 ', 
+ 0.3534
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(58000, '/1000000 ', 
+ 0.3472
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(58500, '/1000000 ', 
+ 0.3120
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(59000, '/1000000 ', 
+ 0.2862
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(59500, '/1000000 ', 
+ 0.2912
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(60000, '/1000000 ', 
+ 0.3020
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(60500, '/1000000 ', 
+ 0.2810
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(61000, '/1000000 ', 
+ 0.2667
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(61500, '/1000000 ', 
+ 0.3495
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(62000, '/1000000 ', 
+ 0.2976
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(62500, '/1000000 ', 
+ 0.2859
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(63000, '/1000000 ', 
+ 0.2795
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(63500, '/1000000 ', 
+ 0.3498
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(64000, '/1000000 ', 
+ 0.2555
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(64500, '/1000000 ', 
+ 0.2950
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(65000, '/1000000 ', 
+ 0.2822
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(65500, '/1000000 ', 
+ 0.2625
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(66000, '/1000000 ', 
+ 0.2566
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(66500, '/1000000 ', 
+ 0.3429
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(67000, '/1000000 ', 
+ 0.2763
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(67500, '/1000000 ', 
+ 0.2547
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(68000, '/1000000 ', 
+ 0.2841
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(68500, '/1000000 ', 
+ 0.3229
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(69000, '/1000000 ', 
+ 0.2618
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(69500, '/1000000 ', 
+ 0.2958
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(70000, '/1000000 ', 
+ 0.2532
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(70500, '/1000000 ', 
+ 0.2875
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(71000, '/1000000 ', 
+ 0.2975
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(71500, '/1000000 ', 
+ 0.2999
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(72000, '/1000000 ', 
+ 0.2318
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(72500, '/1000000 ', 
+ 0.3058
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(73000, '/1000000 ', 
+ 0.2629
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(73500, '/1000000 ', 
+ 0.2843
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(74000, '/1000000 ', 
+ 0.3558
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(74500, '/1000000 ', 
+ 0.2931
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(75000, '/1000000 ', 
+ 0.3212
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(75500, '/1000000 ', 
+ 0.3307
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(76000, '/1000000 ', 
+ 0.2859
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(76500, '/1000000 ', 
+ 0.2960
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(77000, '/1000000 ', 
+ 0.3176
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(77500, '/1000000 ', 
+ 0.2850
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(78000, '/1000000 ', 
+ 0.2808
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(78500, '/1000000 ', 
+ 0.3069
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(79000, '/1000000 ', 
+ 0.2840
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(79500, '/1000000 ', 
+ 0.3127
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(80000, '/1000000 ', 
+ 0.2744
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(80500, '/1000000 ', 
+ 0.3265
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(81000, '/1000000 ', 
+ 0.2577
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(81500, '/1000000 ', 
+ 0.3706
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(82000, '/1000000 ', 
+ 0.2981
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(82500, '/1000000 ', 
+ 0.2590
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(83000, '/1000000 ', 
+ 0.3018
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(83500, '/1000000 ', 
+ 0.2841
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(84000, '/1000000 ', 
+ 0.2956
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(84500, '/1000000 ', 
+ 0.3132
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(85000, '/1000000 ', 
+ 0.3367
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(85500, '/1000000 ', 
+ 0.2589
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(86000, '/1000000 ', 
+ 0.2903
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(86500, '/1000000 ', 
+ 0.2645
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(87000, '/1000000 ', 
+ 0.2654
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(87500, '/1000000 ', 
+ 0.2986
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(88000, '/1000000 ', 
+ 0.2687
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(88500, '/1000000 ', 
+ 0.2924
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(89000, '/1000000 ', 
+ 0.2613
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(89500, '/1000000 ', 
+ 0.2603
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(90000, '/1000000 ', 
+ 0.2396
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(90500, '/1000000 ', 
+ 0.2522
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(91000, '/1000000 ', 
+ 0.2717
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(91500, '/1000000 ', 
+ 0.2720
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(92000, '/1000000 ', 
+ 0.2710
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(92500, '/1000000 ', 
+ 0.2391
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(93000, '/1000000 ', 
+ 0.2937
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(93500, '/1000000 ', 
+ 0.2548
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(94000, '/1000000 ', 
+ 0.3079
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(94500, '/1000000 ', 
+ 0.2600
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(95000, '/1000000 ', 
+ 0.2735
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(95500, '/1000000 ', 
+ 0.2779
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(96000, '/1000000 ', 
+ 0.2598
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(96500, '/1000000 ', 
+ 0.2559
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(97000, '/1000000 ', 
+ 0.2434
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(97500, '/1000000 ', 
+ 0.2899
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(98000, '/1000000 ', 
+ 0.3079
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(98500, '/1000000 ', 
+ 0.2860
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(99000, '/1000000 ', 
+ 0.3013
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(99500, '/1000000 ', 
+ 0.2788
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(100000, '/1000000 ', 
+ 0.2703
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(100500, '/1000000 ', 
+ 0.2741
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(101000, '/1000000 ', 
+ 0.2827
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(101500, '/1000000 ', 
+ 0.2911
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(102000, '/1000000 ', 
+ 0.3176
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(102500, '/1000000 ', 
+ 0.2269
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(103000, '/1000000 ', 
+ 0.2218
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(103500, '/1000000 ', 
+ 0.2372
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(104000, '/1000000 ', 
+ 0.3006
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(104500, '/1000000 ', 
+ 0.2545
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(105000, '/1000000 ', 
+ 0.2588
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(105500, '/1000000 ', 
+ 0.2640
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(106000, '/1000000 ', 
+ 0.3006
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(106500, '/1000000 ', 
+ 0.2757
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(107000, '/1000000 ', 
+ 0.2292
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(107500, '/1000000 ', 
+ 0.2893
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(108000, '/1000000 ', 
+ 0.2740
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(108500, '/1000000 ', 
+ 0.2524
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(109000, '/1000000 ', 
+ 0.3017
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(109500, '/1000000 ', 
+ 0.2465
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(110000, '/1000000 ', 
+ 0.3273
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(110500, '/1000000 ', 
+ 0.2993
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(111000, '/1000000 ', 
+ 0.2373
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(111500, '/1000000 ', 
+ 0.2674
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(112000, '/1000000 ', 
+ 0.2678
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(112500, '/1000000 ', 
+ 0.2529
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(113000, '/1000000 ', 
+ 0.3018
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(113500, '/1000000 ', 
+ 0.2655
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(114000, '/1000000 ', 
+ 0.2839
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(114500, '/1000000 ', 
+ 0.2723
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(115000, '/1000000 ', 
+ 0.2697
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(115500, '/1000000 ', 
+ 0.2722
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(116000, '/1000000 ', 
+ 0.2855
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(116500, '/1000000 ', 
+ 0.2446
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(117000, '/1000000 ', 
+ 0.3015
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(117500, '/1000000 ', 
+ 0.2881
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(118000, '/1000000 ', 
+ 0.2458
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(118500, '/1000000 ', 
+ 0.2394
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(119000, '/1000000 ', 
+ 0.2671
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(119500, '/1000000 ', 
+ 0.3341
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(120000, '/1000000 ', 
+ 0.3067
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(120500, '/1000000 ', 
+ 0.2430
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(121000, '/1000000 ', 
+ 0.3190
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(121500, '/1000000 ', 
+ 0.2522
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(122000, '/1000000 ', 
+ 0.2584
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(122500, '/1000000 ', 
+ 0.2231
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(123000, '/1000000 ', 
+ 0.2334
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(123500, '/1000000 ', 
+ 0.3167
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(124000, '/1000000 ', 
+ 0.2942
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(124500, '/1000000 ', 
+ 0.2755
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
+(125000, '/1000000 ', 
+ 0.2399
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+)
