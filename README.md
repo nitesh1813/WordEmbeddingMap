@@ -1,1 +1,2 @@
 # WordEmbeddingMap
+[plot](mapping.png)
