@@ -1,2 +1,5 @@
 # WordEmbeddingMap
-[plot](mapping.png)
+
+
+![Before training](beforetraining.png)
+![Multilingual embedding space](mapping.png)
